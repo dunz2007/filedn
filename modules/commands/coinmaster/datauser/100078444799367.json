@@ -1,0 +1,18 @@
+{
+    "name": "N.Q.A Quỳnh",
+    "ID": "100078444799367",
+    "shield": 2,
+    "coins": -249999999969266.25,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 10,
+            "tree": 0,
+            "pool": 0,
+            "pet": 0
+        }
+    },
+    "spin": 2,
+    "timeRegister": "15:11:13, 20/4/2024"
+}

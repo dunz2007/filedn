@@ -1,0 +1,18 @@
+{
+    "name": "Gọi Tớ Là Cat",
+    "ID": "100068868321823",
+    "shield": 2,
+    "coins": -249999999972501,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 20,
+            "tree": 20,
+            "pool": 0,
+            "pet": 10
+        }
+    },
+    "spin": 18,
+    "timeRegister": "15:10:05, 20/4/2024"
+}
